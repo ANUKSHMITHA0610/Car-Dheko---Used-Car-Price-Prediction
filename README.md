@@ -63,9 +63,9 @@ Predicting used car prices is a __continuous machine learning problem__. Therefo
 
 **Data after structuring**
 
-<img width="450" height="200" src="https://github.com/user-attachments/assets/b5fdcbca-7a39-4af3-8640-cdf3c62ed8eb"> 
+<img width="650" src="https://github.com/user-attachments/assets/b5fdcbca-7a39-4af3-8640-cdf3c62ed8eb"> 
 
-<img width="450" height="200" src= "https://github.com/user-attachments/assets/cbbfa850-b2c7-48a5-91a7-b22d6d2a27cb">
+<img width="650" src= "https://github.com/user-attachments/assets/cbbfa850-b2c7-48a5-91a7-b22d6d2a27cb">
 
 ### 2. Exploratory Data Analysis (EDA)
 
