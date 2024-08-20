@@ -6,7 +6,9 @@
 
 The "Car Dheko - Used Car Price Prediction" project aims to develop an accurate machine learning model that predicts the prices of used cars. The project also involves deploying this model as an interactive web application using Streamlit. This tool will be user-friendly and accessible to both customers and sales representatives, allowing them to input car features and obtain real-time price predictions.
 
-<img src="https://github.com/user-attachments/assets/730d7010-4da9-44b4-8f92-15278d36761b" width="450" height="200"/> <img src="https://github.com/user-attachments/assets/af742224-abf8-47d6-9fc7-046ceed2b2cd" width="450" height="200"/>
+<img src="https://github.com/user-attachments/assets/730d7010-4da9-44b4-8f92-15278d36761b" width="800" /> 
+
+<img src="https://github.com/user-attachments/assets/af742224-abf8-47d6-9fc7-046ceed2b2cd" width="800"/>
 
 ## Project Scope
 
@@ -61,7 +63,9 @@ Predicting used car prices is a __continuous machine learning problem__. Therefo
 
 **Data after structuring**
 
-<img width="450" height="200" src="https://github.com/user-attachments/assets/b5fdcbca-7a39-4af3-8640-cdf3c62ed8eb"> <img width="450" height="200" src= "https://github.com/user-attachments/assets/cbbfa850-b2c7-48a5-91a7-b22d6d2a27cb">
+<img width="450" height="200" src="https://github.com/user-attachments/assets/b5fdcbca-7a39-4af3-8640-cdf3c62ed8eb"> 
+
+<img width="450" height="200" src= "https://github.com/user-attachments/assets/cbbfa850-b2c7-48a5-91a7-b22d6d2a27cb">
 
 ### 2. Exploratory Data Analysis (EDA)
 
