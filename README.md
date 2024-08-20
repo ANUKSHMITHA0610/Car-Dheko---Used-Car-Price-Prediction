@@ -294,7 +294,7 @@ streamlit run app.py
 
 * Deploying the Application: You can deploy the Streamlit app using platforms like Streamlit Cloud, Heroku, or any other hosting service that supports Python web applications
 
-<img width="999" alt="image" src="https://github.com/user-attachments/assets/9d1f2b76-a1f3-4ea1-9ddc-4fc3dafc6597">
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/2ff0e0e5-90f6-4705-a86e-d091ec5b161e">
 
 ### Results
 
