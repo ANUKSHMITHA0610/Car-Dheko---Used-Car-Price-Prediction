@@ -6,7 +6,7 @@
 
 The "Car Dheko - Used Car Price Prediction" project aims to develop an accurate machine learning model that predicts the prices of used cars. The project also involves deploying this model as an interactive web application using Streamlit. This tool will be user-friendly and accessible to both customers and sales representatives, allowing them to input car features and obtain real-time price predictions.
 
-<img src="https://github.com/user-attachments/assets/924f6598-6e26-4473-99b9-24d768ca05ff" width="450" height="200" /> <img src="https://github.com/user-attachments/assets/4ec9bfb6-d565-413f-ad57-c6b0adfba8c4" width="450" height="200" />
+<img src="https://github.com/user-attachments/assets/730d7010-4da9-44b4-8f92-15278d36761b" width="450" height="200" /> <img src="https://github.com/user-attachments/assets/af742224-abf8-47d6-9fc7-046ceed2b2cd" width="450" height="200" />
 
 ## Project Scope
 
@@ -47,7 +47,7 @@ Predicting used car prices is a __continuous machine learning problem__. Therefo
 
 **Data before structuring (unstructured data)**
  
-  <img width="955" alt="dictionary" src="https://github.com/user-attachments/assets/2473e298-095e-4c02-83f0-dc25e0dcd65b">
+<img width="955" alt="dictionary" src="https://github.com/user-attachments/assets/ad1529fb-5f02-4c7c-9f97-10cdf89ca4df">
 
 * Address missing data using imputation techniques—mean, median, or mode for numerical columns, and mode or a new category for categorical columns.
 
@@ -61,8 +61,8 @@ Predicting used car prices is a __continuous machine learning problem__. Therefo
 
 **Data after structuring**
 
-<img width="450" height="200" alt="dictionary" src="https://github.com/user-attachments/assets/81e18bad-8c6c-4347-8c9b-b72bcb27d19f"> <img width="450" height="200" alt="dictionary" src=https://github.com/user-attachments/assets/8fe433db-f880-41eb-961a-7c122bccb5ab>
- 
+<img width="450" height="200" src="https://github.com/user-attachments/assets/b5fdcbca-7a39-4af3-8640-cdf3c62ed8eb"> <img width="450" height="200" src= "https://github.com/user-attachments/assets/cbbfa850-b2c7-48a5-91a7-b22d6d2a27cb">
+
 ### 2. Exploratory Data Analysis (EDA)
 
 In this section, the dataset is thoroughly explored to uncover patterns, trends, and insights that can guide further analysis and model development. EDA helps in understanding the data better and in identifying any anomalies, relationships, or key features that may influence the model's performance.
@@ -89,25 +89,25 @@ visualizations were created:
 
 Visualize relationships between two numerical variables. For example, a scatter plot of price vs. mileage can reveal how the price decreases as mileage increases.
 
-<img width="999" alt="image" src="https://github.com/user-attachments/assets/53326dd5-d55b-4a97-99f5-599353b9e10e">
+<img width="999" alt="image" src="https://github.com/user-attachments/assets/aa3c3cd5-f5f0-4895-8a07-7c60a9e38017">
 
 **(ii) Histograms :**
 
 Show the distribution of a single numerical variable. For instance, a histogram of engine_size can help identify the most common engine sizes in the dataset.
 
-<img width="999" alt="image" src="https://github.com/user-attachments/assets/f889b002-8649-4b3e-b9d0-a741069824a2">
+<img width="999" alt="image" src="https://github.com/user-attachments/assets/e99a8464-617f-4e9b-80f8-554ee4ade2d9">
 
 **(iii) Box plot :**
 
 The plot_boxplots function generates box plots for specified columns in a DataFrame to help identify outliers and understand the distribution of the data. Box plots are useful for visualizing data distributions and detecting any anomalies or extreme values.
 
-<img width="999" alt="image" src="https://github.com/user-attachments/assets/7108be37-5e9a-49ae-83dd-e0cd6b682711">
+<img width="999" alt="image" src="https://github.com/user-attachments/assets/c09d7b26-4b13-4a59-9f72-e5aa7265f2ec">
 
 **(iv) Correlation heatmap :**
 
 The plot_correlation_heatmap_fix function generates a correlation heatmap for numeric features in a DataFrame, providing a visual representation of feature relationships. This helps in identifying correlations and understanding how features relate to each other.
 
-<img width="999" alt="image" src="https://github.com/user-attachments/assets/43dd2432-708c-44d5-86fc-5a575bfb3525">
+<img width="999" alt="image" src="https://github.com/user-attachments/assets/95936b40-c53d-4f86-a457-2f5242106b51">
 
 #### 2.3 Insights and Observations
 
@@ -147,7 +147,7 @@ To identify the important features that have a significant impact on car prices,
 
 * Example: High-end brands or cars with advanced safety features are generally expected to have higher prices. These insights guide the inclusion or exclusion of certain features in the final model.
 
-<img width="999" alt="image" src="https://github.com/user-attachments/assets/8003a848-9461-41b1-ad5e-ba2f28cf257d">
+<img width="999" alt="image" src="https://github.com/user-attachments/assets/c605f2c4-7a23-4374-b520-da6936b457ff">
 
 By focusing on these selected features, the model is likely to achieve better performance, with improved accuracy and interpretability, while reducing the risk of overfitting by removing irrelevant or redundant features.
 
@@ -252,7 +252,7 @@ Regularization techniques are used to prevent overfitting by adding a penalty to
 
 By applying these optimization techniques, you can improve the performance and generalization of your model, leading to better predictive accuracy and robustness.
 
-<img width="500" alt="image" src="https://github.com/user-attachments/assets/ac2a3058-4c76-4129-a711-317fdcc256d9">
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/b10a8cfc-c098-4b68-b22f-a0fbf470d235">
 
 ### 6. Streamlit Application:
 
@@ -290,9 +290,9 @@ streamlit run app.py
 
 * Deploying the Application: You can deploy the Streamlit app using platforms like Streamlit Cloud, Heroku, or any other hosting service that supports Python web applications
 
-<img width="960" alt="image" src="https://github.com/user-attachments/assets/3d958c9b-da2c-4101-bf9d-9f922d4b5a53">
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/1c4a4a97-33e1-4ed8-96ed-882422a80f4e">
 
-<img width="960" alt="image" src="https://github.com/user-attachments/assets/deb1e2bf-80e1-4db4-b5e9-9a38bd7f7827">
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/6106ea2a-3e66-4454-89e7-20294f640a24">
 
 ### Results
 
