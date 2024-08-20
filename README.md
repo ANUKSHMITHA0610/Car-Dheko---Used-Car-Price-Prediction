@@ -312,6 +312,6 @@ Conducted a thorough exploratory data analysis (EDA) that included generating su
 
 Provided detailed documentation that outlines the methodology used in the project, including data preprocessing, feature engineering, model development, and evaluation. The documentation also includes explanations of the different machine learning models tested and their performance results, ensuring clarity and transparency.
 
-#### 4.Interactive Streamlit Application
+**4.Interactive Streamlit Application**
 
-Developed an interactive Streamlit application that allows users to input car features and obtain real-time price predictions. This user-friendly application makes the model accessible to non-technical users and facilitates easy and immediate use of the predi
+Developed an interactive Streamlit application that allows users to input car features and obtain real-time price predictions. This user-friendly application makes the model accessible to non-technical users and facilitates easy and immediate use of the predictive tool.
