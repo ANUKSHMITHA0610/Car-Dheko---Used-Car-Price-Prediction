@@ -272,19 +272,19 @@ By applying these optimization techniques, you can improve the performance and g
 ```
 * Application Structure: The Streamlit app is structured to have an intuitive user interface where users can input car details such as make, model, year, mileage, engine size, and more.
 
-#### 6.3 Building the User Interface
+#### 6.2 Building the User Interface
 
 * Input Fields: Streamlit provides various input widgets like sliders, text boxes, and dropdowns. These allow users to specify the car features they want to input for the price prediction.
 
 * Prediction Button: A button that, when clicked, triggers the model to make a prediction based on the input features
 
-#### 6.4 Integrating the Model
+#### 6.3 Integrating the Model
 
 * The trained machine learning model is loaded and used to make predictions based on the user inputs.
 
 * The model processes the input data and returns a price prediction, which is then displayed in the app.
 
-#### 6.5 Running the Application
+#### 6.4 Running the Application
 
 * Running Locally: You can run the application locally using the following command:
 
