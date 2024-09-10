@@ -1,4 +1,8 @@
-# 🚗 Car Dheko - Used Car Price Prediction
+<div align="center">
+
+ # 🚗 Car Dheko - Used Car Price Prediction
+
+</div>
 
 <div align="center">
 
